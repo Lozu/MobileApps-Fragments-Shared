@@ -1,4 +1,4 @@
-package com.example.fragments
+package com.example.attempt2
 
 import org.junit.Test
 
